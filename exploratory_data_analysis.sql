@@ -1,10 +1,22 @@
+/*
+ =================================
+ Exploratory Data Analysis
+ =================================
+This script explores key objects in the database and 
+calculates core business metrics to understand the 
+scale, health, and structure of the sales dataset.
 
--- =================================
--- Exploratory Data Analysis
--- =================================
--- Running this code will give you important business insights for exploratory purposes. 
--- The queries help you understand what kind of business we are dealing with
+Included analytics:
+• Schema discovery (tables, columns, dimensions)
+• Data coverage checks (date ranges & customer ages)
+• Key business measures (sales, orders, products, customers)
+• Breakdown of results by country, gender, and category
+• Top and bottom performers using ranking analysis
 
+Used to establish foundational insights before building 
+advanced analytical models and dashboards.
+==========================================================
+*/
 
 
 -- DATABASE EXPLORATION
