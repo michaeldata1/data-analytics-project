@@ -2,7 +2,8 @@
 =============================
 PRODUCT REPORT
 =============================
-This report on the customers is made to be used for Business Intelligence
+Purpose: 
+This report will consolidate key product metrics to be used for business intelligence
 */
 
 create view gold.report_product as 
