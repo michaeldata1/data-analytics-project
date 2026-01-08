@@ -51,4 +51,4 @@ This project is released under the **MIT License**. :contentReference[oaicite:10
 
 ---
 
-✨ **Purpose:** This project is designed to showcase SQL analytical skills that transform raw data into actionable business insights often required for a data analytics role. :contentReference[oaicite:11]{index=11}
+✨ **Purpose:** This project is designed to showcase SQL analytical skills that transform raw data into actionable business insights often required for a data analytics role. 
