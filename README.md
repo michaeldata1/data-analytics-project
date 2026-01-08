@@ -7,7 +7,7 @@ This project demonstrates **end-to-end data analytics** on a simulated sales dat
 ## 📊 Project Highlights
 
 - **Star Schema Design**:  
-  - Fact table: `orders` / `order_details`  
+  - Fact table: `Sales`
   - Dimension tables: `customers`, `products`  
   - Enables scalable and efficient analytics.
 
