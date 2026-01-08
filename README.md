@@ -9,7 +9,7 @@ This project demonstrates **end-to-end data analytics** on a simulated sales dat
 - **Star Schema Design**:  
   - Fact table: `orders` / `order_details`  
   - Dimension tables: `customers`, `products`  
-  - Enables scalable and efficient analytics, just like in a real data warehouse.
+  - Enables scalable and efficient analytics.
 
 - **SQL Skills Demonstrated**:  
   - Table creation, relationships, triggers, stored procedures, and functions  
@@ -27,12 +27,11 @@ This project demonstrates **end-to-end data analytics** on a simulated sales dat
 
 ## 🗂 Repository Structure
 
-.
-├── analytics/ # Core SQL queries for analysis and EDA
-├── data_model.png # Star schema diagram
-├── data_report/ # Queries for customer/product insights
-├── README.md # Project overview
-└── LICENSE # MIT License
+- `analytics/` — Core SQL queries for data exploration & advanced analytics  
+- `data_report/` — Scripts focused on business reporting and segmentation  
+- `data_model.png` — Diagram of the underlying data warehouse schema  
+- `README.md` — This file  
+- `LICENSE` — MIT License
 
 ---
 
